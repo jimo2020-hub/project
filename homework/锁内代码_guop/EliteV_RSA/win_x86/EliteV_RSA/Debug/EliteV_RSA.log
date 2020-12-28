@@ -1,0 +1,28 @@
+﻿生成启动时间为 2020/11/24 9:58:12。
+     1>项目“D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\EliteV_RSA\EliteV_RSA.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\EliteV_RSA.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\vs2010\VC\bin\CL.exe /c /I"D:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EliteV_RSA.cpp
+         EliteV_RSA.cpp
+     1>d:\users\sense\documents\visual studio 2010\projects\代码作业修改版_guop\锁内代码_guop\elitev_rsa\win_x86\elitev_rsa\elitev_rsa.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\users\sense\documents\visual studio 2010\projects\代码作业修改版_guop\锁内代码_guop\elitev_rsa\win_x86\elitev_rsa\elitev_rsa.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\users\sense\documents\visual studio 2010\projects\代码作业修改版_guop\锁内代码_guop\elitev_rsa\win_x86\elitev_rsa\elitev_rsa.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\users\sense\documents\visual studio 2010\projects\代码作业修改版_guop\锁内代码_guop\elitev_rsa\win_x86\elitev_rsa\elitev_rsa.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\Debug\EliteV_RSA.exe" /NOLOGO /LIBPATH:"D:\Program Files (x86)\Visual Leak Detector\lib\Win32" SlcCrypt.lib slm_runtime.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EliteV_RSA.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\Debug\EliteV_RSA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\Debug\EliteV_RSA.lib" /MACHINE:X86 Debug\EliteV_RSA.obj
+         SlcCrypt.lib
+         slm_runtime.lib
+         EliteV_RSA.vcxproj -> D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\Debug\EliteV_RSA.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\Debug\EliteV_RSA.exe;#1" /manifest Debug\EliteV_RSA.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\EliteV_RSA.unsuccessfulbuild”。
+         正在对“Debug\EliteV_RSA.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Users\sense\documents\visual studio 2010\Projects\代码作业修改版_guop\锁内代码_guop\EliteV_RSA\win_x86\EliteV_RSA\EliteV_RSA.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.12

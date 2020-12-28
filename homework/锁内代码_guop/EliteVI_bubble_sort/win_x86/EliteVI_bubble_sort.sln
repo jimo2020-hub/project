@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EliteVI_bubble_sort", "EliteVI_bubble_sort\EliteVI_bubble_sort.vcxproj", "{6CD82C53-B63C-4B69-A1F0-29700C963BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD82C53-B63C-4B69-A1F0-29700C963BB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CD82C53-B63C-4B69-A1F0-29700C963BB8}.Debug|Win32.Build.0 = Debug|Win32
+		{6CD82C53-B63C-4B69-A1F0-29700C963BB8}.Release|Win32.ActiveCfg = Release|Win32
+		{6CD82C53-B63C-4B69-A1F0-29700C963BB8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
